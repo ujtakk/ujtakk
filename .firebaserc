@@ -1,7 +1,6 @@
 {
   "projects": {
-    "default": "ujtakk-fc9be",
-    "dev": "ujtakk-dev",
-    "prod": "ujtakk-prod"
+    "prod": "ujtakk-prod",
+    "dev": "ujtakk-dev"
   }
 }
