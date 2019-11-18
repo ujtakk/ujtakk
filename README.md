@@ -1,3 +1,3 @@
 ujtakk
 ============================================================
-Sources for [ujtakk.xyz](https://ujtakk.xyz).
+Sources for [ujtakk.dev](https://ujtakk.dev).
